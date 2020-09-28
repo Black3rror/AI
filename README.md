@@ -3,6 +3,7 @@ Here you can find some of my AI related projects and codes
 
 # Playground
 Contains some of my efforts in order to understand Deep Learning concepts and master the coding part of it.
+Note that the Colab links may not contain the codes for all parts of the problem and some parts may have been saved as versions (names) in Colab.
 
 This file contains:
 - Keras_cheat_sheet: A collection of useful functions and code snippets in Keras. [Colab link](https://colab.research.google.com/drive/1Rgr1fZhmIykvBAH9zM-TxeEkVS7DiXDH?usp=sharing)
